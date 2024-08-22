@@ -1,0 +1,951 @@
+2023-01-12 22:43:36,637 - Roomshark - INFO - Starting chromedriver
+2023-01-12 22:43:36,640 - Roomshark - ERROR - Connection to chromedriver dropped
+2023-01-12 22:44:34,332 - Roomshark - INFO - Starting chromedriver
+2023-01-12 22:44:34,334 - Roomshark - ERROR - Connection to chromedriver dropped
+2023-01-12 22:44:56,359 - Roomshark - INFO - Starting chromedriver
+2023-01-12 22:44:56,362 - Roomshark - ERROR - Connection to chromedriver dropped
+2023-01-12 22:54:39,710 - Roomshark - INFO - Starting chromedriver
+2023-01-12 22:55:22,336 - Roomshark - INFO - Starting chromedriver
+2023-01-12 22:57:33,593 - Roomshark - INFO - Starting chromedriver
+2023-01-12 22:58:40,827 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:01:47,872 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:02:30,922 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:03:12,606 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:04:15,409 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:04:42,461 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:05:06,079 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:05:53,324 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:07:10,941 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:08:29,304 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:12:11,435 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:13:02,764 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:21:44,215 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:22:05,408 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:23:26,180 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:23:46,850 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:24:03,658 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:24:27,160 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:24:52,787 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:25:17,099 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:32:44,427 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:34:25,218 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:35:10,713 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:36:25,476 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:40:16,014 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:41:30,218 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:41:34,210 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-12 23:41:36,790 - Roomshark - INFO - Done
+2023-01-12 23:43:48,508 - Roomshark - INFO - Starting chromedriver
+2023-01-12 23:43:52,572 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-12 23:43:52,994 - Roomshark - INFO - Successful login
+2023-01-12 23:43:55,107 - Roomshark - INFO - Done
+2023-01-13 00:45:46,046 - Roomshark - INFO - Starting chromedriver
+2023-01-13 00:45:50,370 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 00:45:50,895 - Roomshark - INFO - Successful login
+2023-01-13 00:47:01,806 - Roomshark - INFO - Starting chromedriver
+2023-01-13 00:47:06,129 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 00:47:06,641 - Roomshark - INFO - Successful login
+2023-01-13 00:48:41,361 - Roomshark - INFO - Starting chromedriver
+2023-01-13 00:48:45,646 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 00:48:46,156 - Roomshark - INFO - Successful login
+2023-01-13 00:49:32,751 - Roomshark - INFO - Starting chromedriver
+2023-01-13 00:49:37,070 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 00:49:37,592 - Roomshark - INFO - Successful login
+2023-01-13 00:50:44,256 - Roomshark - INFO - Starting chromedriver
+2023-01-13 00:50:48,575 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 00:50:49,165 - Roomshark - INFO - Successful login
+2023-01-13 00:52:13,835 - Roomshark - INFO - Starting chromedriver
+2023-01-13 00:52:18,718 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 00:52:19,245 - Roomshark - INFO - Successful login
+2023-01-13 00:53:30,150 - Roomshark - INFO - Starting chromedriver
+2023-01-13 00:53:34,936 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 00:53:35,573 - Roomshark - INFO - Successful login
+2023-01-13 00:56:59,267 - Roomshark - INFO - Starting chromedriver
+2023-01-13 00:57:03,601 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 00:57:04,120 - Roomshark - INFO - Successful login
+2023-01-13 00:59:50,426 - Roomshark - INFO - Starting chromedriver
+2023-01-13 00:59:55,013 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 00:59:55,606 - Roomshark - INFO - Successful login
+2023-01-13 01:04:31,089 - Roomshark - INFO - Starting chromedriver
+2023-01-13 01:04:35,377 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 01:04:36,002 - Roomshark - INFO - Successful login
+2023-01-13 01:11:57,980 - Roomshark - INFO - Starting chromedriver
+2023-01-13 01:20:34,366 - Roomshark - INFO - Starting chromedriver
+2023-01-13 01:21:02,891 - Roomshark - INFO - Starting chromedriver
+2023-01-13 01:21:04,079 - Roomshark - ERROR - Connection to chromedriver dropped
+2023-01-13 01:21:07,224 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 01:21:07,799 - Roomshark - INFO - Successful login
+2023-01-13 01:21:35,314 - Roomshark - INFO - Starting chromedriver
+2023-01-13 01:21:35,314 - Roomshark - ERROR - Connection to chromedriver dropped
+2023-01-13 01:25:45,606 - Roomshark - INFO - Starting chromedriver
+2023-01-13 01:25:55,639 - Roomshark - INFO - Starting chromedriver
+2023-01-13 01:26:01,852 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 01:26:02,351 - Roomshark - INFO - Successful login
+2023-01-13 01:32:53,045 - Roomshark - INFO - Starting chromedriver
+2023-01-13 01:32:59,492 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 01:33:00,173 - Roomshark - INFO - Successful login
+2023-01-13 01:33:17,070 - Roomshark - INFO - Starting chromedriver
+2023-01-13 01:33:20,960 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 01:33:21,456 - Roomshark - INFO - Successful login
+2023-01-13 01:34:33,605 - Roomshark - INFO - Starting chromedriver
+2023-01-13 01:34:37,674 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 01:34:38,112 - Roomshark - INFO - Successful login
+2023-01-13 01:37:41,042 - Roomshark - INFO - Starting chromedriver
+2023-01-13 01:37:50,311 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 01:43:09,196 - Roomshark - INFO - Starting chromedriver
+2023-01-13 01:43:16,930 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:19:45,439 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:20:42,084 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:20:52,977 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:22:20,833 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:23:02,689 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:25:39,808 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:26:28,831 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:26:53,952 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:27:07,687 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:27:14,277 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:27:46,068 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:27:52,351 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:27:52,934 - Roomshark - INFO - Successful login
+2023-01-13 09:28:38,791 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:28:45,558 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:28:46,100 - Roomshark - INFO - Successful login
+2023-01-13 09:28:48,505 - Roomshark - INFO - Done
+2023-01-13 09:32:40,999 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:32:47,090 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:32:47,707 - Roomshark - INFO - Successful login
+2023-01-13 09:32:50,092 - Roomshark - INFO - Done
+2023-01-13 09:34:38,144 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:34:45,114 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:34:45,703 - Roomshark - INFO - Successful login
+2023-01-13 09:34:48,127 - Roomshark - INFO - Done
+2023-01-13 09:40:26,258 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:40:32,370 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:40:32,987 - Roomshark - INFO - Successful login
+2023-01-13 09:40:35,419 - Roomshark - INFO - Done
+2023-01-13 09:43:34,912 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:43:42,269 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:43:42,936 - Roomshark - INFO - Successful login
+2023-01-13 09:46:27,163 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:46:33,010 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:46:33,675 - Roomshark - INFO - Successful login
+2023-01-13 09:47:14,709 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:47:21,343 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:47:21,949 - Roomshark - INFO - Successful login
+2023-01-13 09:47:45,007 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:47:51,286 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:47:51,837 - Roomshark - INFO - Successful login
+2023-01-13 09:48:15,288 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:48:21,737 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:48:22,454 - Roomshark - INFO - Successful login
+2023-01-13 09:50:33,716 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:50:40,302 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:50:40,797 - Roomshark - INFO - Successful login
+2023-01-13 09:50:43,201 - Roomshark - INFO - Done
+2023-01-13 09:54:26,331 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:54:32,293 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:54:32,982 - Roomshark - INFO - Successful login
+2023-01-13 09:56:37,768 - Roomshark - INFO - Starting chromedriver
+2023-01-13 09:56:49,779 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 09:56:50,364 - Roomshark - INFO - Successful login
+2023-01-13 10:03:32,100 - Roomshark - INFO - Starting chromedriver
+2023-01-13 10:03:39,045 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 10:03:39,717 - Roomshark - INFO - Successful login
+2023-01-13 10:04:10,227 - Roomshark - INFO - Starting chromedriver
+2023-01-13 10:04:17,053 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 10:04:17,902 - Roomshark - INFO - Successful login
+2023-01-13 10:04:20,040 - Roomshark - INFO - Done
+2023-01-13 10:06:12,724 - Roomshark - INFO - Starting chromedriver
+2023-01-13 10:06:19,726 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 10:06:20,434 - Roomshark - INFO - Successful login
+2023-01-13 10:06:22,570 - Roomshark - INFO - Done
+2023-01-13 10:07:22,215 - Roomshark - INFO - Starting chromedriver
+2023-01-13 10:07:29,700 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 10:07:30,410 - Roomshark - INFO - Successful login
+2023-01-13 10:07:32,625 - Roomshark - INFO - Done
+2023-01-13 10:09:33,118 - Roomshark - INFO - Starting chromedriver
+2023-01-13 10:09:40,139 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 10:09:40,729 - Roomshark - INFO - Successful login
+2023-01-13 12:09:20,629 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:09:31,583 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:09:32,255 - Roomshark - INFO - Successful login
+2023-01-13 12:11:03,338 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:11:12,190 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:11:15,103 - Roomshark - INFO - Successful login
+2023-01-13 12:17:07,468 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:17:31,570 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:18:00,829 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:18:16,060 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:18:25,209 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:18:26,015 - Roomshark - INFO - Successful login
+2023-01-13 12:18:54,322 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:19:02,640 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:19:03,335 - Roomshark - INFO - Successful login
+2023-01-13 12:20:02,276 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:20:12,863 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:20:13,385 - Roomshark - INFO - Successful login
+2023-01-13 12:20:15,555 - Roomshark - INFO - Done
+2023-01-13 12:31:42,213 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:31:52,185 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:31:53,011 - Roomshark - INFO - Successful login
+2023-01-13 12:31:55,221 - Roomshark - INFO - Done
+2023-01-13 12:32:23,256 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:32:32,560 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:32:33,180 - Roomshark - INFO - Successful login
+2023-01-13 12:32:35,349 - Roomshark - INFO - Done
+2023-01-13 12:33:10,451 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:33:17,590 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:33:18,224 - Roomshark - INFO - Successful login
+2023-01-13 12:33:20,369 - Roomshark - INFO - Done
+2023-01-13 12:34:25,558 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:34:32,607 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:34:33,116 - Roomshark - INFO - Successful login
+2023-01-13 12:34:37,752 - Roomshark - INFO - Done
+2023-01-13 12:51:34,162 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:51:43,409 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:51:44,161 - Roomshark - INFO - Successful login
+2023-01-13 12:52:13,680 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:52:22,640 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:52:23,082 - Roomshark - INFO - Successful login
+2023-01-13 12:52:43,026 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:52:52,169 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:52:52,943 - Roomshark - INFO - Successful login
+2023-01-13 12:53:27,098 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:53:46,852 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:53:47,410 - Roomshark - INFO - Successful login
+2023-01-13 12:54:36,286 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:54:43,664 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:54:44,253 - Roomshark - INFO - Successful login
+2023-01-13 12:55:54,786 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:56:02,111 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:56:02,863 - Roomshark - INFO - Successful login
+2023-01-13 12:56:58,159 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:57:06,119 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:57:06,726 - Roomshark - INFO - Successful login
+2023-01-13 12:57:18,815 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:57:26,187 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:57:26,881 - Roomshark - INFO - Successful login
+2023-01-13 12:58:30,478 - Roomshark - INFO - Starting chromedriver
+2023-01-13 12:58:37,459 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 12:58:37,948 - Roomshark - INFO - Successful login
+2023-01-13 12:58:41,327 - Roomshark - INFO - Done
+2023-01-13 13:00:55,430 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:01:01,749 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:01:02,334 - Roomshark - INFO - Successful login
+2023-01-13 13:01:05,361 - Roomshark - INFO - Done
+2023-01-13 13:07:25,849 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:07:33,429 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:07:33,971 - Roomshark - INFO - Successful login
+2023-01-13 13:07:37,430 - Roomshark - INFO - Done
+2023-01-13 13:13:43,662 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:13:50,728 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:13:51,237 - Roomshark - INFO - Successful login
+2023-01-13 13:13:54,903 - Roomshark - INFO - Done
+2023-01-13 13:15:31,374 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:15:45,308 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:15:52,860 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:15:53,282 - Roomshark - INFO - Successful login
+2023-01-13 13:15:56,732 - Roomshark - INFO - Done
+2023-01-13 13:22:20,192 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:22:27,476 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:22:27,838 - Roomshark - INFO - Successful login
+2023-01-13 13:22:57,314 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:23:04,838 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:23:05,358 - Roomshark - INFO - Successful login
+2023-01-13 13:27:52,390 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:27:59,447 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:28:00,095 - Roomshark - INFO - Successful login
+2023-01-13 13:29:31,677 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:29:38,220 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:29:38,718 - Roomshark - INFO - Successful login
+2023-01-13 13:30:20,749 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:30:28,674 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:30:29,309 - Roomshark - INFO - Successful login
+2023-01-13 13:38:23,136 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:38:29,340 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:38:30,068 - Roomshark - INFO - Successful login
+2023-01-13 13:38:33,642 - Roomshark - INFO - Done
+2023-01-13 13:42:28,479 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:42:35,788 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:42:36,447 - Roomshark - INFO - Successful login
+2023-01-13 13:42:40,263 - Roomshark - INFO - Done
+2023-01-13 13:42:58,993 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:43:05,814 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:43:06,287 - Roomshark - INFO - Successful login
+2023-01-13 13:43:09,988 - Roomshark - INFO - Done
+2023-01-13 13:44:04,009 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:44:11,486 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:44:12,172 - Roomshark - INFO - Successful login
+2023-01-13 13:44:15,588 - Roomshark - INFO - Done
+2023-01-13 13:45:10,755 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:45:17,060 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:45:17,602 - Roomshark - INFO - Successful login
+2023-01-13 13:45:42,912 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:45:49,153 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:45:49,704 - Roomshark - INFO - Successful login
+2023-01-13 13:45:53,199 - Roomshark - INFO - Done
+2023-01-13 13:46:12,821 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:46:19,738 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:46:20,281 - Roomshark - INFO - Successful login
+2023-01-13 13:47:34,386 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:47:41,406 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:47:41,872 - Roomshark - INFO - Successful login
+2023-01-13 13:47:45,866 - Roomshark - INFO - Done
+2023-01-13 13:48:28,223 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:48:35,412 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:48:36,012 - Roomshark - INFO - Successful login
+2023-01-13 13:48:39,727 - Roomshark - INFO - Done
+2023-01-13 13:48:53,445 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:48:59,372 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:48:59,962 - Roomshark - INFO - Successful login
+2023-01-13 13:49:03,367 - Roomshark - INFO - Done
+2023-01-13 13:49:54,730 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:50:03,389 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:50:03,934 - Roomshark - INFO - Successful login
+2023-01-13 13:50:07,328 - Roomshark - INFO - Done
+2023-01-13 13:51:24,731 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:51:31,639 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:51:32,120 - Roomshark - INFO - Successful login
+2023-01-13 13:53:38,594 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:54:26,775 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:54:52,249 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:54:59,785 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:55:00,164 - Roomshark - INFO - Successful login
+2023-01-13 13:55:42,017 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:55:49,258 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:55:49,808 - Roomshark - INFO - Successful login
+2023-01-13 13:57:02,363 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:57:08,969 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:57:09,573 - Roomshark - INFO - Successful login
+2023-01-13 13:57:32,563 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:57:39,030 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:57:39,601 - Roomshark - INFO - Successful login
+2023-01-13 13:58:01,821 - Roomshark - INFO - Starting chromedriver
+2023-01-13 13:58:09,383 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 13:58:10,038 - Roomshark - INFO - Successful login
+2023-01-13 15:23:20,499 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:23:28,536 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:23:29,223 - Roomshark - INFO - Successful login
+2023-01-13 15:26:13,570 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:26:23,284 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:26:23,805 - Roomshark - INFO - Successful login
+2023-01-13 15:32:02,696 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:34:32,306 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:34:40,158 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:34:40,732 - Roomshark - INFO - Successful login
+2023-01-13 15:36:57,670 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:37:05,238 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:37:05,379 - Roomshark - ERROR - Couldnt select UIA when logging in to feide
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 73, in create_cookie
+    wait.until(EC.text_to_be_present_in_element("idDiv_SAOTCS_Title"))
+TypeError: __init__() missing 1 required positional argument: 'text_'
+2023-01-13 15:37:57,785 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:38:05,167 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:38:11,389 - Roomshark - ERROR - Couldnt select UIA when logging in to feide
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 74, in create_cookie
+    search_box.submit()
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 85, in submit
+    form = self.find_element(By.XPATH, "./ancestor-or-self::form")
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 652, in find_element
+    return self._execute(Command.FIND_CHILD_ELEMENT,
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 628, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.75)
+
+2023-01-13 15:38:44,166 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:38:51,722 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:39:44,972 - Roomshark - INFO - Successful login
+2023-01-13 15:41:28,663 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:41:35,490 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:41:54,443 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:42:00,864 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:44:19,380 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:44:26,588 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:45:31,199 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:45:37,952 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:45:58,022 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:46:18,649 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:48:10,505 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:48:31,284 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:49:03,286 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:51:47,240 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:52:00,915 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:52:50,730 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:53:04,201 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:53:55,026 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:54:08,481 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 15:55:05,969 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:56:23,699 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:57:17,989 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:58:40,997 - Roomshark - INFO - Starting chromedriver
+2023-01-13 15:58:54,380 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 16:00:03,613 - Roomshark - INFO - Starting chromedriver
+2023-01-13 16:00:16,817 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 16:06:54,152 - Roomshark - INFO - Starting chromedriver
+2023-01-13 16:07:07,753 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 16:12:02,396 - Roomshark - INFO - Starting chromedriver
+2023-01-13 16:12:16,121 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-13 16:12:16,870 - Roomshark - INFO - password failed
+2023-01-13 16:12:16,870 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-13 16:12:16,933 - Roomshark - INFO - Successful login
+2023-01-14 19:20:51,833 - Roomshark - INFO - Starting chromedriver
+2023-01-14 19:20:55,779 - Roomshark - INFO - Starting chromedriver
+2023-01-14 19:21:07,461 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-14 19:21:07,903 - Roomshark - INFO - password failed
+2023-01-14 19:21:07,903 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-14 19:21:07,926 - Roomshark - INFO - Successful login
+2023-01-14 19:27:55,880 - Roomshark - INFO - Starting chromedriver
+2023-01-14 19:28:06,761 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-14 19:28:07,175 - Roomshark - INFO - password failed
+2023-01-14 19:29:02,695 - Roomshark - INFO - Starting chromedriver
+2023-01-14 19:29:13,381 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-14 19:29:13,788 - Roomshark - INFO - password failed
+2023-01-14 19:31:29,313 - Roomshark - INFO - Starting chromedriver
+2023-01-14 19:31:39,959 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-14 19:31:40,301 - Roomshark - INFO - password failed
+2023-01-14 19:32:10,203 - Roomshark - INFO - Starting chromedriver
+2023-01-14 19:32:20,898 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-14 19:32:21,286 - Roomshark - INFO - password failed
+2023-01-14 19:36:13,650 - Roomshark - INFO - Starting chromedriver
+2023-01-14 19:36:24,519 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-14 19:36:24,961 - Roomshark - INFO - password failed
+2023-01-14 19:36:24,961 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-14 19:36:24,996 - Roomshark - INFO - Successful login
+2023-01-14 19:36:24,996 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-14 19:36:38,945 - Roomshark - INFO - Successful login
+2023-01-14 19:40:08,251 - Roomshark - INFO - Starting chromedriver
+2023-01-14 19:40:19,346 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-14 19:40:19,823 - Roomshark - INFO - password failed
+2023-01-14 19:40:19,824 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-14 19:40:19,849 - Roomshark - INFO - Successful login
+2023-01-14 19:40:19,849 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-14 19:41:15,228 - Roomshark - ERROR - Couldnt Microsoft authenticate  when logging in to feide
+Traceback (most recent call last):
+  File "C:\Users\Lars\Room-shark-Uia\main.py", line 225, in create_cookie
+    microsoft.send_keys(messange, Keys.ENTER)
+  File "C:\Users\Lars\Room-shark-Uia\venv\lib\site-packages\selenium\webdriver\remote\webelement.py", line 477, in send_keys
+    self._execute(Command.SEND_KEYS_TO_ELEMENT,
+  File "C:\Users\Lars\Room-shark-Uia\venv\lib\site-packages\selenium\webdriver\remote\webelement.py", line 628, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Lars\Room-shark-Uia\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Lars\Room-shark-Uia\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.74)
+
+2023-01-14 20:06:37,840 - Roomshark - INFO - Starting chromedriver
+2023-01-14 20:06:49,078 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-14 20:06:49,453 - Roomshark - INFO - password failed
+2023-01-14 20:06:49,453 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-14 20:06:49,477 - Roomshark - INFO - Successful login
+2023-01-14 20:06:49,477 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-14 20:06:58,776 - Roomshark - INFO - Successful login
+2023-01-14 20:07:02,817 - Roomshark - INFO - Done
+2023-01-14 20:07:33,562 - Roomshark - INFO - Starting chromedriver
+2023-01-14 20:07:44,306 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-14 20:07:44,793 - Roomshark - INFO - password failed
+2023-01-14 20:07:44,794 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-14 20:07:44,824 - Roomshark - INFO - Successful login
+2023-01-14 20:07:44,824 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:20:30,007 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:20:42,095 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:20:42,739 - Roomshark - INFO - password failed
+2023-01-29 19:20:42,739 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:20:42,789 - Roomshark - INFO - Successful login
+2023-01-29 19:20:42,789 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:22:22,969 - Roomshark - ERROR - Couldnt Microsoft authenticate  when logging in to feide
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 222, in create_cookie
+    microsoft = wait.until(EC.presence_of_element_located((By.ID, "idTxtBx_SAOTCC_OTC")))
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2023-01-29 19:25:14,867 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:25:26,485 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:25:27,045 - Roomshark - INFO - password failed
+2023-01-29 19:25:27,045 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:25:27,091 - Roomshark - INFO - Successful login
+2023-01-29 19:25:27,092 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:25:29,181 - Roomshark - ERROR - Couldnt Microsoft authenticate  when logging in to feide
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 224, in create_cookie
+    microsoft.click()
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 628, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <input id="idChkBx_SAOTCAS_TD" type="checkbox" value="true" data-bind="
+                        attr: { name: svr.sTrustedDeviceCheckboxName },
+                        ariaLabel: str['CT_SAOTCAS_STR_AddTD'],
+                        ariaDescribedBy: ['idDiv_SAOTCAS_Title', 'idDiv_SAOTCAS_Description'].concat(description2 ? ['idDiv_RichContext_Description'] : []).join(' '),
+                        hasFocusEx: tdCheckbox.isShown,
+                        checked: tdCheckbox.isChecked,
+                        disable: tdCheckbox.isDisabled" name="rememberMFA" aria-label="Ikke spør på nytt før om 30 dager" aria-describedby="idDiv_SAOTCAS_Title idDiv_SAOTCAS_Description"> is not clickable at point (479, 423). Other element would receive the click: <span data-bind="text: str['CT_SAOTCAS_STR_AddTD']">...</span>
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 19:26:28,164 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:26:39,549 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:26:40,399 - Roomshark - INFO - password failed
+2023-01-29 19:26:40,399 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:26:40,451 - Roomshark - INFO - Successful login
+2023-01-29 19:26:40,451 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:26:42,070 - Roomshark - INFO - Successful login
+2023-01-29 19:30:13,075 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:30:24,659 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:30:25,247 - Roomshark - INFO - password failed
+2023-01-29 19:30:25,247 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:30:25,299 - Roomshark - INFO - Successful login
+2023-01-29 19:30:25,299 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:30:26,923 - Roomshark - INFO - Successful login
+2023-01-29 19:30:26,959 - Roomshark - ERROR - Couldnt Microsoft authenticate  when logging in to feide
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 232, in create_cookie
+    search_box.click()
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 628, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 19:32:09,194 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:32:20,965 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:32:21,546 - Roomshark - INFO - password failed
+2023-01-29 19:32:21,546 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:32:21,592 - Roomshark - INFO - Successful login
+2023-01-29 19:32:21,592 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:32:23,197 - Roomshark - INFO - Successful login
+2023-01-29 19:32:23,227 - Roomshark - ERROR - Couldnt Microsoft authenticate  when logging in to feide
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 234, in create_cookie
+    next_button.click()
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 628, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 19:32:54,177 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:33:05,789 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:33:06,416 - Roomshark - INFO - password failed
+2023-01-29 19:33:06,417 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:33:06,461 - Roomshark - INFO - Successful login
+2023-01-29 19:33:06,461 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:33:08,066 - Roomshark - INFO - Successful login
+2023-01-29 19:34:53,824 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:35:05,477 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:35:06,338 - Roomshark - INFO - password failed
+2023-01-29 19:35:06,338 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:35:06,413 - Roomshark - INFO - Successful login
+2023-01-29 19:35:06,413 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:35:08,015 - Roomshark - INFO - Successful login
+2023-01-29 19:36:50,796 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:37:02,400 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:37:03,096 - Roomshark - INFO - password failed
+2023-01-29 19:37:03,096 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:37:03,143 - Roomshark - INFO - Successful login
+2023-01-29 19:37:03,143 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:37:04,848 - Roomshark - INFO - Successful login
+2023-01-29 19:40:03,866 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:40:15,387 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:40:16,076 - Roomshark - INFO - password failed
+2023-01-29 19:40:16,077 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:40:16,122 - Roomshark - INFO - Successful login
+2023-01-29 19:40:16,122 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:40:17,835 - Roomshark - INFO - Successful login
+2023-01-29 19:41:34,302 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:41:46,304 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:41:46,925 - Roomshark - INFO - password failed
+2023-01-29 19:41:46,925 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:41:46,972 - Roomshark - INFO - Successful login
+2023-01-29 19:41:46,972 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:41:49,089 - Roomshark - ERROR - Couldnt Microsoft authenticate  when logging in to feide
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 224, in create_cookie
+    microsoft.click()
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 628, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <input id="idChkBx_SAOTCAS_TD" type="checkbox" value="true" data-bind="
+                        attr: { name: svr.sTrustedDeviceCheckboxName },
+                        ariaLabel: str['CT_SAOTCAS_STR_AddTD'],
+                        ariaDescribedBy: ['idDiv_SAOTCAS_Title', 'idDiv_SAOTCAS_Description'].concat(description2 ? ['idDiv_RichContext_Description'] : []).join(' '),
+                        hasFocusEx: tdCheckbox.isShown,
+                        checked: tdCheckbox.isChecked,
+                        disable: tdCheckbox.isDisabled" name="rememberMFA" aria-label="Ikke spør på nytt før om 30 dager" aria-describedby="idDiv_SAOTCAS_Title idDiv_SAOTCAS_Description"> is not clickable at point (488, 423). Other element would receive the click: <span data-bind="text: str['CT_SAOTCAS_STR_AddTD']">...</span>
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 19:48:13,990 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:48:25,595 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:48:26,312 - Roomshark - INFO - password failed
+2023-01-29 19:48:26,312 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:48:26,373 - Roomshark - INFO - Successful login
+2023-01-29 19:48:26,373 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:48:28,029 - Roomshark - INFO - Successful login
+2023-01-29 19:53:38,007 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:53:49,628 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:53:50,332 - Roomshark - INFO - password failed
+2023-01-29 19:53:50,332 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:53:50,384 - Roomshark - INFO - Successful login
+2023-01-29 19:53:50,384 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:53:52,057 - Roomshark - INFO - Successful login
+2023-01-29 19:57:04,591 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:57:16,053 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:57:16,766 - Roomshark - INFO - password failed
+2023-01-29 19:57:16,766 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:57:16,813 - Roomshark - INFO - Successful login
+2023-01-29 19:57:16,813 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:57:18,913 - Roomshark - ERROR - Couldnt Microsoft authenticate  when logging in to feide
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 224, in create_cookie
+    microsoft.click()
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 628, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <input id="idChkBx_SAOTCAS_TD" type="checkbox" value="true" data-bind="
+                        attr: { name: svr.sTrustedDeviceCheckboxName },
+                        ariaLabel: str['CT_SAOTCAS_STR_AddTD'],
+                        ariaDescribedBy: ['idDiv_SAOTCAS_Title', 'idDiv_SAOTCAS_Description'].concat(description2 ? ['idDiv_RichContext_Description'] : []).join(' '),
+                        hasFocusEx: tdCheckbox.isShown,
+                        checked: tdCheckbox.isChecked,
+                        disable: tdCheckbox.isDisabled" name="rememberMFA" aria-label="Ikke spør på nytt før om 30 dager" aria-describedby="idDiv_SAOTCAS_Title idDiv_SAOTCAS_Description"> is not clickable at point (440, 423). Other element would receive the click: <span data-bind="text: str['CT_SAOTCAS_STR_AddTD']">...</span>
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 19:57:28,791 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:57:41,037 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:57:41,681 - Roomshark - INFO - password failed
+2023-01-29 19:57:41,681 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:57:41,728 - Roomshark - INFO - Successful login
+2023-01-29 19:57:41,729 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:57:43,351 - Roomshark - INFO - Successful login
+2023-01-29 19:59:34,963 - Roomshark - INFO - Starting chromedriver
+2023-01-29 19:59:46,471 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 19:59:47,078 - Roomshark - INFO - password failed
+2023-01-29 19:59:47,078 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 19:59:47,128 - Roomshark - INFO - Successful login
+2023-01-29 19:59:47,129 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 19:59:49,252 - Roomshark - ERROR - Couldnt Microsoft authenticate  when logging in to feide
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 224, in create_cookie
+    microsoft.click()
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 628, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <input id="idChkBx_SAOTCAS_TD" type="checkbox" value="true" data-bind="
+                        attr: { name: svr.sTrustedDeviceCheckboxName },
+                        ariaLabel: str['CT_SAOTCAS_STR_AddTD'],
+                        ariaDescribedBy: ['idDiv_SAOTCAS_Title', 'idDiv_SAOTCAS_Description'].concat(description2 ? ['idDiv_RichContext_Description'] : []).join(' '),
+                        hasFocusEx: tdCheckbox.isShown,
+                        checked: tdCheckbox.isChecked,
+                        disable: tdCheckbox.isDisabled" name="rememberMFA" aria-label="Ikke spør på nytt før om 30 dager" aria-describedby="idDiv_SAOTCAS_Title idDiv_SAOTCAS_Description"> is not clickable at point (491, 423). Other element would receive the click: <span data-bind="text: str['CT_SAOTCAS_STR_AddTD']">...</span>
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 19:59:55,611 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:00:07,183 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:00:07,767 - Roomshark - INFO - password failed
+2023-01-29 20:00:07,767 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:00:07,816 - Roomshark - INFO - Successful login
+2023-01-29 20:00:07,816 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:00:09,447 - Roomshark - INFO - Successful login
+2023-01-29 20:01:57,196 - Roomshark - ERROR - Cant fint date in the selection
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 250, in create_cookie
+    element.click()
+AttributeError: 'NoneType' object has no attribute 'click'
+2023-01-29 20:02:01,615 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:02:07,198 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:02:18,933 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:02:19,678 - Roomshark - INFO - password failed
+2023-01-29 20:02:19,678 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:02:19,726 - Roomshark - INFO - Successful login
+2023-01-29 20:02:19,727 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:02:21,359 - Roomshark - INFO - Successful login
+2023-01-29 20:02:27,499 - Roomshark - ERROR - Cant fint date in the selection
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 249, in create_cookie
+    element = driver.find_element_by_css_selector(f"div.slotfree2.slotfreetarget[data-dates='{datestring}']")
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 589, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 953, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.slotfree2.slotfreetarget[data-dates='20230130']"}
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 20:02:29,793 - Roomshark - INFO - Done
+2023-01-29 20:07:22,825 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:07:34,375 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:07:35,009 - Roomshark - INFO - password failed
+2023-01-29 20:07:35,009 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:07:35,071 - Roomshark - INFO - Successful login
+2023-01-29 20:07:35,071 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:07:36,707 - Roomshark - INFO - Successful login
+2023-01-29 20:07:42,393 - Roomshark - ERROR - Cant fint date in the selection
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 249, in create_cookie
+    element = driver.find_element_by_css_selector(f"div.slotfree2.slotfreetarget[data-dates='{datestring}']")
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 589, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 953, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.slotfree2.slotfreetarget[data-dates='20230130']"}
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 20:07:44,760 - Roomshark - INFO - Done
+2023-01-29 20:13:58,295 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:14:10,309 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:14:10,699 - Roomshark - INFO - password failed
+2023-01-29 20:14:10,699 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:14:10,732 - Roomshark - INFO - Successful login
+2023-01-29 20:14:10,732 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:14:12,301 - Roomshark - INFO - Successful login
+2023-01-29 20:14:17,889 - Roomshark - ERROR - Cant fint date in the selection
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 249, in create_cookie
+    element = driver.find_element_by_css_selector(f"div.slotfree2.slotfreetarget[data-dates='{datestring}']")
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 589, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 953, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.slotfree2.slotfreetarget[data-dates='20230130']"}
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 20:14:20,102 - Roomshark - INFO - Done
+2023-01-29 20:15:32,764 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:15:43,732 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:15:44,137 - Roomshark - INFO - password failed
+2023-01-29 20:15:44,137 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:15:44,168 - Roomshark - INFO - Successful login
+2023-01-29 20:15:44,168 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:15:45,748 - Roomshark - INFO - Successful login
+2023-01-29 20:15:51,638 - Roomshark - ERROR - Cant fint date in the selection
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 249, in create_cookie
+    element = driver.find_element_by_css_selector(f"div.slotfree2.slotfreetarget[data-dates='{datestring}']")
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 589, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 953, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.slotfree2.slotfreetarget[data-dates='20230130']"}
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 20:15:53,829 - Roomshark - INFO - Done
+2023-01-29 20:16:20,304 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:16:31,353 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:16:31,791 - Roomshark - INFO - password failed
+2023-01-29 20:16:31,791 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:16:31,830 - Roomshark - INFO - Successful login
+2023-01-29 20:16:31,830 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:16:33,908 - Roomshark - ERROR - Couldnt Microsoft authenticate  when logging in to feide
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 224, in create_cookie
+    microsoft.click()
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 628, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <input id="idChkBx_SAOTCAS_TD" type="checkbox" value="true" data-bind="
+                        attr: { name: svr.sTrustedDeviceCheckboxName },
+                        ariaLabel: str['CT_SAOTCAS_STR_AddTD'],
+                        ariaDescribedBy: ['idDiv_SAOTCAS_Title', 'idDiv_SAOTCAS_Description'].concat(description2 ? ['idDiv_RichContext_Description'] : []).join(' '),
+                        hasFocusEx: tdCheckbox.isShown,
+                        checked: tdCheckbox.isChecked,
+                        disable: tdCheckbox.isDisabled" name="rememberMFA" aria-label="Ikke spør på nytt før om 30 dager" aria-describedby="idDiv_SAOTCAS_Title idDiv_SAOTCAS_Description"> is not clickable at point (496, 423). Other element would receive the click: <span data-bind="text: str['CT_SAOTCAS_STR_AddTD']">...</span>
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 20:16:41,687 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:16:52,577 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:16:53,004 - Roomshark - INFO - password failed
+2023-01-29 20:16:53,004 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:16:53,037 - Roomshark - INFO - Successful login
+2023-01-29 20:16:53,037 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:16:54,612 - Roomshark - INFO - Successful login
+2023-01-29 20:16:59,942 - Roomshark - ERROR - Cant fint date in the selection
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 249, in create_cookie
+    element = driver.find_element_by_css_selector(f"div.slotfree2.slotfreetarget[data-dates='{datestring}']")
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 589, in find_element_by_css_selector
+    return self.find_element(by=By.CSS_SELECTOR, value=css_selector)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 953, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.slotfree2.slotfreetarget[data-dates='20230130']"}
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 20:17:02,165 - Roomshark - INFO - Done
+2023-01-29 20:17:40,673 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:36:01,045 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:36:12,299 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:36:12,901 - Roomshark - INFO - password failed
+2023-01-29 20:36:12,902 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:36:12,934 - Roomshark - INFO - Successful login
+2023-01-29 20:36:12,934 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:36:14,508 - Roomshark - INFO - Successful login
+2023-01-29 20:39:15,333 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:39:27,195 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:39:27,688 - Roomshark - INFO - password failed
+2023-01-29 20:39:27,688 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:39:27,719 - Roomshark - INFO - Successful login
+2023-01-29 20:39:27,719 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:39:29,290 - Roomshark - INFO - Successful login
+2023-01-29 20:44:55,853 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:45:06,770 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:45:07,270 - Roomshark - INFO - password failed
+2023-01-29 20:45:07,270 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:45:07,298 - Roomshark - INFO - Successful login
+2023-01-29 20:45:07,298 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:45:08,870 - Roomshark - INFO - Successful login
+2023-01-29 20:50:00,522 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:50:11,923 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:50:12,336 - Roomshark - INFO - password failed
+2023-01-29 20:50:12,336 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:50:12,380 - Roomshark - INFO - Successful login
+2023-01-29 20:50:12,380 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:50:13,946 - Roomshark - INFO - Successful login
+2023-01-29 20:55:09,794 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:55:13,959 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:55:25,091 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:55:25,642 - Roomshark - INFO - password failed
+2023-01-29 20:55:25,642 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:55:25,673 - Roomshark - INFO - Successful login
+2023-01-29 20:55:25,673 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:55:27,732 - Roomshark - ERROR - Couldnt Microsoft authenticate  when logging in to feide
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 217, in create_cookie
+    microsoft.click()
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 628, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <input id="idChkBx_SAOTCAS_TD" type="checkbox" value="true" data-bind="
+                        attr: { name: svr.sTrustedDeviceCheckboxName },
+                        ariaLabel: str['CT_SAOTCAS_STR_AddTD'],
+                        ariaDescribedBy: ['idDiv_SAOTCAS_Title', 'idDiv_SAOTCAS_Description'].concat(description2 ? ['idDiv_RichContext_Description'] : []).join(' '),
+                        hasFocusEx: tdCheckbox.isShown,
+                        checked: tdCheckbox.isChecked,
+                        disable: tdCheckbox.isDisabled" name="rememberMFA" aria-label="Ikke spør på nytt før om 30 dager" aria-describedby="idDiv_SAOTCAS_Title idDiv_SAOTCAS_Description"> is not clickable at point (491, 423). Other element would receive the click: <span data-bind="text: str['CT_SAOTCAS_STR_AddTD']">...</span>
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 20:55:35,146 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:55:46,034 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:55:46,492 - Roomshark - INFO - password failed
+2023-01-29 20:55:46,492 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:55:46,522 - Roomshark - INFO - Successful login
+2023-01-29 20:55:46,522 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:55:48,091 - Roomshark - INFO - Successful login
+2023-01-29 20:57:21,106 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:57:32,179 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:57:32,650 - Roomshark - INFO - password failed
+2023-01-29 20:57:32,650 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:57:32,682 - Roomshark - INFO - Successful login
+2023-01-29 20:57:32,683 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:57:34,253 - Roomshark - INFO - Successful login
+2023-01-29 20:59:15,539 - Roomshark - INFO - Starting chromedriver
+2023-01-29 20:59:26,884 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 20:59:27,323 - Roomshark - INFO - password failed
+2023-01-29 20:59:27,323 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 20:59:27,353 - Roomshark - INFO - Successful login
+2023-01-29 20:59:27,354 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 20:59:28,921 - Roomshark - INFO - Successful login
+2023-01-29 20:59:39,394 - Roomshark - ERROR - Cant fint date in the selection
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 255, in create_cookie
+    datepicker.click()
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 628, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 20:59:41,626 - Roomshark - INFO - Done
+2023-01-29 21:02:52,563 - Roomshark - INFO - Starting chromedriver
+2023-01-29 21:03:03,518 - Roomshark - INFO - Loggin into user lemoi18@uia.no
+2023-01-29 21:03:03,946 - Roomshark - INFO - password failed
+2023-01-29 21:03:03,946 - Roomshark - INFO - Microsoft Authentication lemoi18@uia.no
+2023-01-29 21:03:03,979 - Roomshark - INFO - Successful login
+2023-01-29 21:03:03,980 - Roomshark - INFO - Microsoft Text lemoi18@uia.no
+2023-01-29 21:03:05,567 - Roomshark - INFO - Successful login
+2023-01-29 21:03:18,380 - Roomshark - ERROR - Cant fint date in the selection
+Traceback (most recent call last):
+  File "C:/Users/Skole/Room-shark-Uia/main.py", line 256, in create_cookie
+    datepicker.click()
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webelement.py", line 628, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 312, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Skole\AppData\Local\Programs\Python\Python38\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <div class="slotfree" style="top: 0px; left: 0.0%; width: 100.0%;  height: 40px;"></div> is not clickable at point (356, 712). Other element would receive the click: <div class="slotfree2 slotfreetarget" tabindex="0" data-firsthour="480" data-resminheight="40" data-preferedlength="60" data-resstartstep="15" data-resminlength="30" data-resmaxlength="180" data-resmaxend="21" data-dates="20230206" data-beginminute="480" data-object="2.4" style="top: 0px; left: 0.0%; width: 100.0%;  height: 40px;">...</div>
+  (Session info: chrome=109.0.5414.120)
+
+2023-01-29 21:03:20,646 - Roomshark - INFO - Done

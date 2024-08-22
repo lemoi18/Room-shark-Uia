@@ -1,0 +1,3 @@
+selenium==3.10.0
+PyVirtualDisplay==0.2.1
+requests
