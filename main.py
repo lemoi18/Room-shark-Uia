@@ -129,38 +129,6 @@ except Exception:
     logger.error("Connection to chromedriver dropped")
 
 
-# Log in to feide and send reservation
-# @param start_time should be either 8 or 12
-# @param room should be '510S312' or '510S313'
-def send_reservation(start_time, room):
-    # Go directly to the date two weeks from now with the correct starting time
-    # Days should be 14 if server has GMT+1 timezone
-    date = str(datetime.date.today() + datetime.timedelta(days=14))
-    logger.info("Reserving for date: " + date)
-    logger.info("With start time: " + start_time)
-    url = 'https://tp.uio.no/ntnu/rombestilling/?start=' + start_time + ':00&duration=4:00&preset_date=' + date + '&roomid=' + room
-    driver.get(url)
-
-    # Find the element which decides end time
-    try:
-        search_box = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ID, "rb-bestill")))
-        search_box.click()
-        logger.debug("Clicked submit, waiting view to change")
-    except Exception:
-        logger.error("Wrong login, room already booked or no more bookings available for this user.")
-        return False
-
-    # Clicked submit, waiting up to 5 seconds for view to change
-    element = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ID, "name")))
-    try:
-        element.send_keys("\ue004\ue004\ue004\ue006")
-        logger.debug("Sending confirmation")
-    except Exception:
-        logger.exception("Selenium couldnt find confirmation button")
-    finally:
-        logger.info('Successfully created reservation')
-        return True;
-
 
 def create_cookie(username, password, driver, datestring):
     url = 'https://cloud.timeedit.net/uia/web'
@@ -241,7 +209,7 @@ def create_cookie(username, password, driver, datestring):
 
     #driver.find_element_by_css_selector("label.weekZoomFirst.weekZoomDay.clickable").click()
     time.sleep(2)
-    print("here")
+ 
 
     label = driver.find_element_by_css_selector("label.weekZoomDay")
     # Get the size of the element
@@ -275,30 +243,7 @@ def create_cookie(username, password, driver, datestring):
         next_date = driver.find_element_by_id("leftresdateinc")
         next_date.click()
 
-    # try:
-    #     wait = WebDriverWait(driver, 100)
-    #     time.sleep(2)
-    #     print(datestring)
-    #
-    #     element = driver.find_element_by_xpath("//div[@class='slotfree2 slotfreetarget']")
-    #
-    #     # Get the size of the element
-    #     size = element.size
-    #
-    #     # Get the location of the element
-    #     location = element.location
-    #
-    #     # Calculate the x and y coordinate to click
-    #     x = location['x'] + size['width'] / 2
-    #     y = location['y'] + size['height'] / 2
-    #
-    #     # Execute the JavaScript to click on the element
-    #     driver.execute_script("document.elementFromPoint({x}, {y}).click();".format(x=x, y=y))
-    #
-    #     time.sleep(2)
-    # except Exception:
-    #     return logger.exception("Cant fint date in the selection")
-    #
+
     logger.info("success")
     time.sleep(2)
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -321,13 +266,6 @@ def create_cookie(username, password, driver, datestring):
     actions.click()
     actions.perform()
     time.sleep(2)
-
-
-
-
-
-
-
 
     return
 
@@ -356,22 +294,7 @@ def main():
         ,
         'cookie': 'sso-parameters=back=https%3A%2F%2Fcloud.timeedit.net%2Fuia%2Fweb%2Ftp%2Fri1Q59.html&ssoserver=feide; TEuiaweb='}
 
-    # Print the headers
-    # print(headers)
-    # print(headers)
-    # Get cookie
-    # Send reservation for the default 4 hrs
-    # if (not send_reservation(str(start_time), room)):
-    #    # If the reservation doesnt go through just try to book room 312 instead
-    #   logger.debug("Room booked it seems, trying S312")
-    #   send_reservation(str(start_time), '510S312')
-    # Check duration, if over 4 hours make two reservations
-    # if (duration > 4):
-    #   if (not send_reservation(str(start_time + 4), room)):
-    #      # If the reservation doesnt go through just try to book room 312 instead
-    #     logger.debug("Room booked it seems, trying S312")
-    #    send_reservation(str(start_time + 4), '510S312')
-    # Close the display driver when done
+
     driver.quit()
     logger.info("Done")
 
